@@ -1,8 +1,8 @@
-Data Dictionary
+Data Dictionary\
 
-id - Identifier for the subjects in the experiment. 
-	[1, 30] range
-
+id - Identifier for the subjects in the experiment.\ 
+	[1, 30] range\
+\
 activityid - Activity identifier.\
 	Walking\
 	Walking Upstairs\
